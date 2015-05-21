@@ -1,2 +1,2 @@
-# furry-tennis-ninjaTDD
-A furrious Tennis TDD in Java.
+# Furry Tennis Ninja TDD
+A furrious ninja Tennis TDD in Java. 
