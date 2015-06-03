@@ -37,7 +37,7 @@ public class testTennis {
 
 
     @Test
-    public void j1Marque1Point()
+    public void j1Marque30Point()
     {
         for(int i =0; i <=1; i++) {
             tennis.ajouterUnPoint("j1");
